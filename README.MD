@@ -8,7 +8,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-![](C:\workspace\Codelandia\JordanShoes\images\JordanShoes.jpg)
+![JordanShoes](https://user-images.githubusercontent.com/98031390/183783817-4b425fda-56cc-43a3-b86f-c148ff43e1b9.jpg)
+
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
