@@ -3,7 +3,7 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ### Acesse
-https://lacerdax.github.io/JordanShoes/
+<a href="https://lacerdax.github.io/JordanShoes/" target="_blank"></a>
 
 
 ![JordanShoes](https://user-images.githubusercontent.com/98031390/183783817-4b425fda-56cc-43a3-b86f-c148ff43e1b9.jpg)
